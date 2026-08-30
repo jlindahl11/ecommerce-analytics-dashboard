@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.env
+data/
+*.csv
+*.xlsx
+~$*.pbix
+Thumbs.db
